@@ -1,4 +1,4 @@
-# JavaChallenges2 
+# Java Challenges
 
 1. Sleep In
 2. Missing Char
